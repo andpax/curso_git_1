@@ -1,1 +1,2 @@
-Testando repo
+Testando repo vs code
+Testando commit via terminal

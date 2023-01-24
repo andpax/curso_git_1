@@ -1,7 +1,0 @@
-Testando repo vs code
-Testando commit via terminal
-
-Testando o commit via ssh
-
-Novo commit via VS Code
-Testando git
